@@ -267,7 +267,7 @@
     }
 }
 
-@media (max-width: 430px) {
+@media (max-width: 478px) {
     .main__container {
        grid-template-areas:
        "div__main"
